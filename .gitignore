@@ -1,2 +1,9 @@
 .vscode/
 勉強用メモ.md
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
